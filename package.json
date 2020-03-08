@@ -1,0 +1,24 @@
+{
+  "name": "touristo",
+  "version": "1.0.0",
+  "description": "a website for nature lovers who travels the world to enjoy the nature",
+  "main": "index.js",
+  "scripts": {
+
+    "compile:sass":"node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhkasif/touristo.git"
+  },
+  "author": "MHK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhkasif/touristo/issues"
+  },
+  "homepage": "https://github.com/mhkasif/touristo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
